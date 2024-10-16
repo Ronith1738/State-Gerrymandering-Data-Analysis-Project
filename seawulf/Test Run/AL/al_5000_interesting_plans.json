@@ -1,0 +1,130 @@
+{
+    "White": {
+        "max": {
+            "value": 0.932,
+            "district": {
+                "plan": "1_32",
+                "district": 9,
+                "population": 41619,
+                "white_population": 38780,
+                "black_population": 321,
+                "hispanic_population": 877,
+                "asian_population": 76,
+                "democratic_votes": 1893,
+                "republican_votes": 18429,
+                "cut_edges": 1869
+            }
+        },
+        "min": {
+            "value": 0.024,
+            "district": {
+                "plan": "32_111",
+                "district": 16,
+                "population": 42408,
+                "white_population": 1013,
+                "black_population": 39383,
+                "hispanic_population": 1155,
+                "asian_population": 47,
+                "democratic_votes": 20415,
+                "republican_votes": 579,
+                "cut_edges": 1781
+            }
+        }
+    },
+    "Black": {
+        "max": {
+            "value": 0.929,
+            "district": {
+                "plan": "35_101",
+                "district": 55,
+                "population": 40584,
+                "white_population": 1026,
+                "black_population": 37685,
+                "hispanic_population": 1048,
+                "asian_population": 41,
+                "democratic_votes": 19189,
+                "republican_votes": 578,
+                "cut_edges": 1824
+            }
+        },
+        "min": {
+            "value": 0.004,
+            "district": {
+                "plan": "10_39",
+                "district": 12,
+                "population": 36911,
+                "white_population": 32170,
+                "black_population": 157,
+                "hispanic_population": 2975,
+                "asian_population": 123,
+                "democratic_votes": 1664,
+                "republican_votes": 15635,
+                "cut_edges": 1815
+            }
+        }
+    },
+    "Hispanic": {
+        "max": {
+            "value": 0.305,
+            "district": {
+                "plan": "24_98",
+                "district": 26,
+                "population": 51280,
+                "white_population": 32044,
+                "black_population": 1356,
+                "hispanic_population": 15629,
+                "asian_population": 271,
+                "democratic_votes": 2588,
+                "republican_votes": 13675,
+                "cut_edges": 1823
+            }
+        },
+        "min": {
+            "value": 0.007,
+            "district": {
+                "plan": "29_43",
+                "district": 68,
+                "population": 42977,
+                "white_population": 11676,
+                "black_population": 29895,
+                "hispanic_population": 315,
+                "asian_population": 146,
+                "democratic_votes": 14306,
+                "republican_votes": 6369,
+                "cut_edges": 1880
+            }
+        }
+    },
+    "Asian": {
+        "max": {
+            "value": 0.109,
+            "district": {
+                "plan": "15_85",
+                "district": 75,
+                "population": 40615,
+                "white_population": 14716,
+                "black_population": 18657,
+                "hispanic_population": 1586,
+                "asian_population": 4408,
+                "democratic_votes": 9123,
+                "republican_votes": 7067,
+                "cut_edges": 1818
+            }
+        },
+        "min": {
+            "value": 0.001,
+            "district": {
+                "plan": "37_121",
+                "district": 52,
+                "population": 54040,
+                "white_population": 1904,
+                "black_population": 49014,
+                "hispanic_population": 1989,
+                "asian_population": 48,
+                "democratic_votes": 25605,
+                "republican_votes": 892,
+                "cut_edges": 1818
+            }
+        }
+    }
+}

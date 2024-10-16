@@ -1,0 +1,152 @@
+{
+    "White": {
+        "max": {
+            "value": 0.726,
+            "district": {
+                "district": 44,
+                "population": 29771,
+                "white_population": 21601,
+                "black_population": 211,
+                "hispanic_population": 6066,
+                "native_population": 254,
+                "black_thresh_37": 0,
+                "black_thresh_45": 0,
+                "black_thresh_50": 0,
+                "hispanic_thresh_37": 0,
+                "hispanic_thresh_45": 0,
+                "hispanic_thresh_50": 0,
+                "native_thresh_37": 0,
+                "native_thresh_45": 0,
+                "native_thresh_50": 0,
+                "democratic_votes": 13818,
+                "republican_votes": 7402,
+                "cut_edges": 1342
+            },
+            "filename": "plan_3417_2305.json"
+        },
+        "min": {
+            "value": 0.008,
+            "district": {
+                "district": 3,
+                "population": 28726,
+                "white_population": 225,
+                "black_population": 43,
+                "hispanic_population": 476,
+                "native_population": 27431,
+                "black_thresh_37": 0,
+                "black_thresh_45": 0,
+                "black_thresh_50": 0,
+                "hispanic_thresh_37": 0,
+                "hispanic_thresh_45": 0,
+                "hispanic_thresh_50": 0,
+                "native_thresh_37": 1,
+                "native_thresh_45": 1,
+                "native_thresh_50": 1,
+                "democratic_votes": 8654,
+                "republican_votes": 3113,
+                "cut_edges": 1310
+            },
+            "filename": "plan_3141_5901.json"
+        }
+    },
+    "Hispanic": {
+        "max": {
+            "value": 0.918,
+            "district": {
+                "district": 6,
+                "population": 28258,
+                "white_population": 1862,
+                "black_population": 103,
+                "hispanic_population": 25947,
+                "native_population": 59,
+                "black_thresh_37": 0,
+                "black_thresh_45": 0,
+                "black_thresh_50": 0,
+                "hispanic_thresh_37": 1,
+                "hispanic_thresh_45": 1,
+                "hispanic_thresh_50": 1,
+                "native_thresh_37": 0,
+                "native_thresh_45": 0,
+                "native_thresh_50": 0,
+                "democratic_votes": 3778,
+                "republican_votes": 1901,
+                "cut_edges": 1374
+            },
+            "filename": "plan_1111_4519.json"
+        },
+        "min": {
+            "value": 0.016,
+            "district": {
+                "district": 54,
+                "population": 29555,
+                "white_population": 282,
+                "black_population": 39,
+                "hispanic_population": 478,
+                "native_population": 28259,
+                "black_thresh_37": 0,
+                "black_thresh_45": 0,
+                "black_thresh_50": 0,
+                "hispanic_thresh_37": 0,
+                "hispanic_thresh_45": 0,
+                "hispanic_thresh_50": 0,
+                "native_thresh_37": 1,
+                "native_thresh_45": 1,
+                "native_thresh_50": 1,
+                "democratic_votes": 8489,
+                "republican_votes": 2889,
+                "cut_edges": 1382
+            },
+            "filename": "plan_1182_6783.json"
+        }
+    },
+    "Native": {
+        "max": {
+            "value": 0.956,
+            "district": {
+                "district": 54,
+                "population": 29555,
+                "white_population": 282,
+                "black_population": 39,
+                "hispanic_population": 478,
+                "native_population": 28259,
+                "black_thresh_37": 0,
+                "black_thresh_45": 0,
+                "black_thresh_50": 0,
+                "hispanic_thresh_37": 0,
+                "hispanic_thresh_45": 0,
+                "hispanic_thresh_50": 0,
+                "native_thresh_37": 1,
+                "native_thresh_45": 1,
+                "native_thresh_50": 1,
+                "democratic_votes": 8489,
+                "republican_votes": 2889,
+                "cut_edges": 1382
+            },
+            "filename": "plan_1169_6783.json"
+        },
+        "min": {
+            "value": 0.001,
+            "district": {
+                "district": 22,
+                "population": 28707,
+                "white_population": 2171,
+                "black_population": 114,
+                "hispanic_population": 26061,
+                "native_population": 42,
+                "black_thresh_37": 0,
+                "black_thresh_45": 0,
+                "black_thresh_50": 0,
+                "hispanic_thresh_37": 1,
+                "hispanic_thresh_45": 1,
+                "hispanic_thresh_50": 1,
+                "native_thresh_37": 0,
+                "native_thresh_45": 0,
+                "native_thresh_50": 0,
+                "democratic_votes": 4915,
+                "republican_votes": 2349,
+                "cut_edges": 1373
+            },
+            "filename": "plan_3338_423.json"
+        }
+    }
+}

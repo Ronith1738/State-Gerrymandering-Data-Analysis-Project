@@ -1,0 +1,12 @@
+{
+    "total_plans": 5000,
+    "opportunity_districts": {
+        "black": 0,
+        "native": 420,
+        "hispanic": 237387
+    },
+    "political_splits": {
+        "democratic": 236977,
+        "republican": 113023
+    }
+}

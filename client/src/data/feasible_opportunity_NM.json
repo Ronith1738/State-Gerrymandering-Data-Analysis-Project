@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "label": "Hispanic",
+            "idealPopulation": "30,190",
+            "populationValue": "1,059,867",
+            "oppDistricts": "30",
+            "maximumOppDistricts": "70",
+            "averageOppDistricts": "0"
+        },
+        {
+            "label": "Native American",
+            "idealPopulation": "30,190",
+            "populationValue": "171,808",
+            "oppDistricts": "6",
+            "maximumOppDistricts": "11",
+            "averageOppDistricts": "0"
+        }
+    ]
+}

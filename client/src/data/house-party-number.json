@@ -1,0 +1,22 @@
+{
+    "Alabama": [
+        {
+            "label": "Republican",
+            "value": 75
+        },
+        {
+            "label": "Democratic",
+            "value": 28
+        }
+    ],
+    "New Mexico": [
+        {
+            "label": "Republican",
+            "value": 25
+        },
+        {
+            "label": "Democratic",
+            "value": 45
+        }
+    ]
+}

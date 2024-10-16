@@ -1,0 +1,2522 @@
+[
+    {
+        "demographic": "white_population",
+        "district": 1,
+        "min": 9337,
+        "25th_percentile": 15643.0,
+        "median": 15643.0,
+        "75th_percentile": 15643.0,
+        "max": 16214
+    },
+    {
+        "demographic": "black_population",
+        "district": 1,
+        "min": 106,
+        "25th_percentile": 159.0,
+        "median": 159.0,
+        "75th_percentile": 159.0,
+        "max": 221
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 1,
+        "min": 4919,
+        "25th_percentile": 6171.0,
+        "median": 6171.0,
+        "75th_percentile": 6171.0,
+        "max": 8279
+    },
+    {
+        "demographic": "asian_population",
+        "district": 1,
+        "min": 142,
+        "25th_percentile": 294.0,
+        "median": 294.0,
+        "75th_percentile": 294.0,
+        "max": 367
+    },
+    {
+        "demographic": "white_population",
+        "district": 2,
+        "min": 2888,
+        "25th_percentile": 9606.0,
+        "median": 9606.0,
+        "75th_percentile": 9606.0,
+        "max": 15912
+    },
+    {
+        "demographic": "black_population",
+        "district": 2,
+        "min": 53,
+        "25th_percentile": 168.0,
+        "median": 168.0,
+        "75th_percentile": 168.0,
+        "max": 246
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 2,
+        "min": 1857,
+        "25th_percentile": 6484.0,
+        "median": 6484.0,
+        "75th_percentile": 6484.0,
+        "max": 10104
+    },
+    {
+        "demographic": "asian_population",
+        "district": 2,
+        "min": 104,
+        "25th_percentile": 161.0,
+        "median": 161.0,
+        "75th_percentile": 161.0,
+        "max": 310
+    },
+    {
+        "demographic": "white_population",
+        "district": 3,
+        "min": 3945,
+        "25th_percentile": 14439.0,
+        "median": 14439.0,
+        "75th_percentile": 14439.0,
+        "max": 17361
+    },
+    {
+        "demographic": "black_population",
+        "district": 3,
+        "min": 71,
+        "25th_percentile": 90.0,
+        "median": 90.0,
+        "75th_percentile": 90.0,
+        "max": 704
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 3,
+        "min": 4653,
+        "25th_percentile": 8242.0,
+        "median": 8242.0,
+        "75th_percentile": 8242.0,
+        "max": 15978
+    },
+    {
+        "demographic": "asian_population",
+        "district": 3,
+        "min": 80,
+        "25th_percentile": 120.0,
+        "median": 120.0,
+        "75th_percentile": 120.0,
+        "max": 1086
+    },
+    {
+        "demographic": "white_population",
+        "district": 4,
+        "min": 612,
+        "25th_percentile": 3825.0,
+        "median": 3825.0,
+        "75th_percentile": 3825.0,
+        "max": 10415
+    },
+    {
+        "demographic": "black_population",
+        "district": 4,
+        "min": 53,
+        "25th_percentile": 131.0,
+        "median": 131.0,
+        "75th_percentile": 131.0,
+        "max": 633
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 4,
+        "min": 801,
+        "25th_percentile": 2559.0,
+        "median": 2559.0,
+        "75th_percentile": 2559.0,
+        "max": 17452
+    },
+    {
+        "demographic": "asian_population",
+        "district": 4,
+        "min": 72,
+        "25th_percentile": 256.0,
+        "median": 256.0,
+        "75th_percentile": 256.0,
+        "max": 688
+    },
+    {
+        "demographic": "white_population",
+        "district": 5,
+        "min": 435,
+        "25th_percentile": 2113.0,
+        "median": 2113.0,
+        "75th_percentile": 2113.0,
+        "max": 5473
+    },
+    {
+        "demographic": "black_population",
+        "district": 5,
+        "min": 53,
+        "25th_percentile": 112.0,
+        "median": 112.0,
+        "75th_percentile": 112.0,
+        "max": 226
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 5,
+        "min": 689,
+        "25th_percentile": 2772.0,
+        "median": 2772.0,
+        "75th_percentile": 2772.0,
+        "max": 7535
+    },
+    {
+        "demographic": "asian_population",
+        "district": 5,
+        "min": 94,
+        "25th_percentile": 367.0,
+        "median": 367.0,
+        "75th_percentile": 367.0,
+        "max": 695
+    },
+    {
+        "demographic": "white_population",
+        "district": 6,
+        "min": 476,
+        "25th_percentile": 4202.0,
+        "median": 4202.0,
+        "75th_percentile": 4202.0,
+        "max": 18118
+    },
+    {
+        "demographic": "black_population",
+        "district": 6,
+        "min": 46,
+        "25th_percentile": 128.0,
+        "median": 128.0,
+        "75th_percentile": 130.0,
+        "max": 753
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 6,
+        "min": 690,
+        "25th_percentile": 4618.0,
+        "median": 4618.0,
+        "75th_percentile": 4728.0,
+        "max": 22272
+    },
+    {
+        "demographic": "asian_population",
+        "district": 6,
+        "min": 68,
+        "25th_percentile": 180.0,
+        "median": 180.0,
+        "75th_percentile": 181.0,
+        "max": 1244
+    },
+    {
+        "demographic": "white_population",
+        "district": 7,
+        "min": 2206,
+        "25th_percentile": 7894.0,
+        "median": 8485.0,
+        "75th_percentile": 9846.0,
+        "max": 20707
+    },
+    {
+        "demographic": "black_population",
+        "district": 7,
+        "min": 74,
+        "25th_percentile": 200.0,
+        "median": 200.0,
+        "75th_percentile": 276.0,
+        "max": 882
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 7,
+        "min": 4986,
+        "25th_percentile": 17822.0,
+        "median": 19069.0,
+        "75th_percentile": 20373.0,
+        "max": 25602
+    },
+    {
+        "demographic": "asian_population",
+        "district": 7,
+        "min": 52,
+        "25th_percentile": 70.0,
+        "median": 82.0,
+        "75th_percentile": 176.0,
+        "max": 1273
+    },
+    {
+        "demographic": "white_population",
+        "district": 8,
+        "min": 891,
+        "25th_percentile": 9297.0,
+        "median": 10806.0,
+        "75th_percentile": 10806.0,
+        "max": 20380
+    },
+    {
+        "demographic": "black_population",
+        "district": 8,
+        "min": 64,
+        "25th_percentile": 251.0,
+        "median": 351.0,
+        "75th_percentile": 351.0,
+        "max": 1554
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 8,
+        "min": 1476,
+        "25th_percentile": 16764.0,
+        "median": 16764.0,
+        "75th_percentile": 17873.0,
+        "max": 21022
+    },
+    {
+        "demographic": "asian_population",
+        "district": 8,
+        "min": 65,
+        "25th_percentile": 164.0,
+        "median": 172.0,
+        "75th_percentile": 172.0,
+        "max": 835
+    },
+    {
+        "demographic": "white_population",
+        "district": 9,
+        "min": 531,
+        "25th_percentile": 2517.0,
+        "median": 2806.0,
+        "75th_percentile": 2806.0,
+        "max": 10760
+    },
+    {
+        "demographic": "black_population",
+        "district": 9,
+        "min": 57,
+        "25th_percentile": 187.0,
+        "median": 189.0,
+        "75th_percentile": 189.0,
+        "max": 1102
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 9,
+        "min": 869,
+        "25th_percentile": 5177.0,
+        "median": 5287.0,
+        "75th_percentile": 5287.0,
+        "max": 19090
+    },
+    {
+        "demographic": "asian_population",
+        "district": 9,
+        "min": 72,
+        "25th_percentile": 471.0,
+        "median": 473.0,
+        "75th_percentile": 473.0,
+        "max": 835
+    },
+    {
+        "demographic": "white_population",
+        "district": 10,
+        "min": 2113,
+        "25th_percentile": 6020.0,
+        "median": 6493.0,
+        "75th_percentile": 10607.0,
+        "max": 19631
+    },
+    {
+        "demographic": "black_population",
+        "district": 10,
+        "min": 105,
+        "25th_percentile": 706.0,
+        "median": 713.0,
+        "75th_percentile": 892.0,
+        "max": 1733
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 10,
+        "min": 2772,
+        "25th_percentile": 13232.0,
+        "median": 21431.0,
+        "75th_percentile": 21815.0,
+        "max": 27507
+    },
+    {
+        "demographic": "asian_population",
+        "district": 10,
+        "min": 86,
+        "25th_percentile": 239.0,
+        "median": 239.0,
+        "75th_percentile": 641.0,
+        "max": 1952
+    },
+    {
+        "demographic": "white_population",
+        "district": 11,
+        "min": 2495,
+        "25th_percentile": 8563.0,
+        "median": 10105.0,
+        "75th_percentile": 11625.0,
+        "max": 16946
+    },
+    {
+        "demographic": "black_population",
+        "district": 11,
+        "min": 275,
+        "25th_percentile": 629.0,
+        "median": 690.0,
+        "75th_percentile": 876.0,
+        "max": 1668
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 11,
+        "min": 10136,
+        "25th_percentile": 15067.0,
+        "median": 16538.0,
+        "75th_percentile": 17260.0,
+        "max": 27494
+    },
+    {
+        "demographic": "asian_population",
+        "district": 11,
+        "min": 134,
+        "25th_percentile": 369.0,
+        "median": 385.0,
+        "75th_percentile": 603.0,
+        "max": 1448
+    },
+    {
+        "demographic": "white_population",
+        "district": 12,
+        "min": 2567,
+        "25th_percentile": 3185.0,
+        "median": 3185.0,
+        "75th_percentile": 4845.0,
+        "max": 19403
+    },
+    {
+        "demographic": "black_population",
+        "district": 12,
+        "min": 173,
+        "25th_percentile": 320.0,
+        "median": 343.0,
+        "75th_percentile": 729.0,
+        "max": 1612
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 12,
+        "min": 5453,
+        "25th_percentile": 23218.0,
+        "median": 25198.0,
+        "75th_percentile": 26315.0,
+        "max": 27733
+    },
+    {
+        "demographic": "asian_population",
+        "district": 12,
+        "min": 76,
+        "25th_percentile": 134.0,
+        "median": 164.0,
+        "75th_percentile": 278.0,
+        "max": 1510
+    },
+    {
+        "demographic": "white_population",
+        "district": 13,
+        "min": 2431,
+        "25th_percentile": 3458.0,
+        "median": 3458.0,
+        "75th_percentile": 4735.5,
+        "max": 18284
+    },
+    {
+        "demographic": "black_population",
+        "district": 13,
+        "min": 162,
+        "25th_percentile": 698.75,
+        "median": 797.0,
+        "75th_percentile": 797.0,
+        "max": 1201
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 13,
+        "min": 2860,
+        "25th_percentile": 22926.0,
+        "median": 24727.0,
+        "75th_percentile": 24727.0,
+        "max": 27441
+    },
+    {
+        "demographic": "asian_population",
+        "district": 13,
+        "min": 85,
+        "25th_percentile": 234.0,
+        "median": 373.0,
+        "75th_percentile": 373.0,
+        "max": 1745
+    },
+    {
+        "demographic": "white_population",
+        "district": 14,
+        "min": 2436,
+        "25th_percentile": 5067.0,
+        "median": 5450.0,
+        "75th_percentile": 7788.0,
+        "max": 15497
+    },
+    {
+        "demographic": "black_population",
+        "district": 14,
+        "min": 240,
+        "25th_percentile": 716.0,
+        "median": 791.0,
+        "75th_percentile": 893.0,
+        "max": 1673
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 14,
+        "min": 10479,
+        "25th_percentile": 19646.0,
+        "median": 22279.0,
+        "75th_percentile": 23224.0,
+        "max": 27383
+    },
+    {
+        "demographic": "asian_population",
+        "district": 14,
+        "min": 92,
+        "25th_percentile": 243.0,
+        "median": 271.0,
+        "75th_percentile": 481.0,
+        "max": 1450
+    },
+    {
+        "demographic": "white_population",
+        "district": 15,
+        "min": 3877,
+        "25th_percentile": 11105.0,
+        "median": 11425.0,
+        "75th_percentile": 13269.0,
+        "max": 19030
+    },
+    {
+        "demographic": "black_population",
+        "district": 15,
+        "min": 95,
+        "25th_percentile": 547.0,
+        "median": 597.0,
+        "75th_percentile": 822.0,
+        "max": 1192
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 15,
+        "min": 6461,
+        "25th_percentile": 12938.0,
+        "median": 15808.0,
+        "75th_percentile": 16027.0,
+        "max": 23125
+    },
+    {
+        "demographic": "asian_population",
+        "district": 15,
+        "min": 197,
+        "25th_percentile": 525.0,
+        "median": 597.0,
+        "75th_percentile": 844.0,
+        "max": 3075
+    },
+    {
+        "demographic": "white_population",
+        "district": 16,
+        "min": 2629,
+        "25th_percentile": 8262.0,
+        "median": 8300.0,
+        "75th_percentile": 11409.0,
+        "max": 19618
+    },
+    {
+        "demographic": "black_population",
+        "district": 16,
+        "min": 116,
+        "25th_percentile": 711.0,
+        "median": 850.0,
+        "75th_percentile": 877.0,
+        "max": 1102
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 16,
+        "min": 5450,
+        "25th_percentile": 15187.0,
+        "median": 18763.0,
+        "75th_percentile": 18763.0,
+        "max": 27159
+    },
+    {
+        "demographic": "asian_population",
+        "district": 16,
+        "min": 98,
+        "25th_percentile": 439.0,
+        "median": 535.0,
+        "75th_percentile": 645.0,
+        "max": 1475
+    },
+    {
+        "demographic": "white_population",
+        "district": 17,
+        "min": 1946,
+        "25th_percentile": 11884.0,
+        "median": 12700.0,
+        "75th_percentile": 13191.0,
+        "max": 17005
+    },
+    {
+        "demographic": "black_population",
+        "district": 17,
+        "min": 82,
+        "25th_percentile": 718.0,
+        "median": 957.0,
+        "75th_percentile": 1031.0,
+        "max": 1086
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 17,
+        "min": 7405,
+        "25th_percentile": 12870.0,
+        "median": 13002.0,
+        "75th_percentile": 14432.0,
+        "max": 24777
+    },
+    {
+        "demographic": "asian_population",
+        "district": 17,
+        "min": 110,
+        "25th_percentile": 629.0,
+        "median": 949.0,
+        "75th_percentile": 1104.0,
+        "max": 1311
+    },
+    {
+        "demographic": "white_population",
+        "district": 18,
+        "min": 3113,
+        "25th_percentile": 9420.0,
+        "median": 13933.0,
+        "75th_percentile": 15497.0,
+        "max": 18484
+    },
+    {
+        "demographic": "black_population",
+        "district": 18,
+        "min": 183,
+        "25th_percentile": 903.0,
+        "median": 1038.0,
+        "75th_percentile": 1062.0,
+        "max": 1799
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 18,
+        "min": 6707,
+        "25th_percentile": 10596.0,
+        "median": 11185.0,
+        "75th_percentile": 16408.0,
+        "max": 25290
+    },
+    {
+        "demographic": "asian_population",
+        "district": 18,
+        "min": 154,
+        "25th_percentile": 669.0,
+        "median": 1339.0,
+        "75th_percentile": 1450.0,
+        "max": 1881
+    },
+    {
+        "demographic": "white_population",
+        "district": 19,
+        "min": 2095,
+        "25th_percentile": 8779.0,
+        "median": 9302.0,
+        "75th_percentile": 13084.75,
+        "max": 19622
+    },
+    {
+        "demographic": "black_population",
+        "district": 19,
+        "min": 48,
+        "25th_percentile": 918.0,
+        "median": 1171.0,
+        "75th_percentile": 1610.0,
+        "max": 1723
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 19,
+        "min": 2033,
+        "25th_percentile": 12609.0,
+        "median": 15439.0,
+        "75th_percentile": 16005.0,
+        "max": 27309
+    },
+    {
+        "demographic": "asian_population",
+        "district": 19,
+        "min": 72,
+        "25th_percentile": 658.0,
+        "median": 679.0,
+        "75th_percentile": 926.0,
+        "max": 1576
+    },
+    {
+        "demographic": "white_population",
+        "district": 20,
+        "min": 3417,
+        "25th_percentile": 12687.0,
+        "median": 14876.0,
+        "75th_percentile": 14889.0,
+        "max": 20030
+    },
+    {
+        "demographic": "black_population",
+        "district": 20,
+        "min": 165,
+        "25th_percentile": 872.0,
+        "median": 1085.0,
+        "75th_percentile": 1086.0,
+        "max": 1735
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 20,
+        "min": 6669,
+        "25th_percentile": 10522.0,
+        "median": 10522.0,
+        "75th_percentile": 12910.75,
+        "max": 26835
+    },
+    {
+        "demographic": "asian_population",
+        "district": 20,
+        "min": 67,
+        "25th_percentile": 1016.0,
+        "median": 1667.0,
+        "75th_percentile": 1667.0,
+        "max": 3250
+    },
+    {
+        "demographic": "white_population",
+        "district": 21,
+        "min": 3667,
+        "25th_percentile": 11168.0,
+        "median": 12506.0,
+        "75th_percentile": 15146.0,
+        "max": 20188
+    },
+    {
+        "demographic": "black_population",
+        "district": 21,
+        "min": 117,
+        "25th_percentile": 822.0,
+        "median": 994.0,
+        "75th_percentile": 1123.0,
+        "max": 1709
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 21,
+        "min": 3903,
+        "25th_percentile": 10373.0,
+        "median": 11713.0,
+        "75th_percentile": 13889.0,
+        "max": 23949
+    },
+    {
+        "demographic": "asian_population",
+        "district": 21,
+        "min": 173,
+        "25th_percentile": 928.0,
+        "median": 1092.0,
+        "75th_percentile": 1171.0,
+        "max": 3314
+    },
+    {
+        "demographic": "white_population",
+        "district": 22,
+        "min": 2788,
+        "25th_percentile": 11937.0,
+        "median": 18427.0,
+        "75th_percentile": 19600.0,
+        "max": 22621
+    },
+    {
+        "demographic": "black_population",
+        "district": 22,
+        "min": 67,
+        "25th_percentile": 191.0,
+        "median": 251.0,
+        "75th_percentile": 408.0,
+        "max": 1624
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 22,
+        "min": 3724,
+        "25th_percentile": 8347.0,
+        "median": 9080.0,
+        "75th_percentile": 14110.0,
+        "max": 22633
+    },
+    {
+        "demographic": "asian_population",
+        "district": 22,
+        "min": 74,
+        "25th_percentile": 190.0,
+        "median": 262.0,
+        "75th_percentile": 962.0,
+        "max": 3320
+    },
+    {
+        "demographic": "white_population",
+        "district": 23,
+        "min": 2793,
+        "25th_percentile": 14076.0,
+        "median": 15734.0,
+        "75th_percentile": 15988.0,
+        "max": 20372
+    },
+    {
+        "demographic": "black_population",
+        "district": 23,
+        "min": 91,
+        "25th_percentile": 555.0,
+        "median": 588.0,
+        "75th_percentile": 685.0,
+        "max": 1031
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 23,
+        "min": 6719,
+        "25th_percentile": 11357.0,
+        "median": 11740.0,
+        "75th_percentile": 12144.0,
+        "max": 17359
+    },
+    {
+        "demographic": "asian_population",
+        "district": 23,
+        "min": 146,
+        "25th_percentile": 500.0,
+        "median": 567.0,
+        "75th_percentile": 589.0,
+        "max": 3278
+    },
+    {
+        "demographic": "white_population",
+        "district": 24,
+        "min": 4689,
+        "25th_percentile": 12857.0,
+        "median": 15135.0,
+        "75th_percentile": 15135.0,
+        "max": 20705
+    },
+    {
+        "demographic": "black_population",
+        "district": 24,
+        "min": 175,
+        "25th_percentile": 830.0,
+        "median": 834.0,
+        "75th_percentile": 1038.0,
+        "max": 1799
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 24,
+        "min": 6879,
+        "25th_percentile": 11139.25,
+        "median": 11184.0,
+        "75th_percentile": 12788.0,
+        "max": 22693
+    },
+    {
+        "demographic": "asian_population",
+        "district": 24,
+        "min": 132,
+        "25th_percentile": 942.0,
+        "median": 954.0,
+        "75th_percentile": 1053.0,
+        "max": 3280
+    },
+    {
+        "demographic": "white_population",
+        "district": 25,
+        "min": 2176,
+        "25th_percentile": 11409.0,
+        "median": 12967.0,
+        "75th_percentile": 13627.0,
+        "max": 20707
+    },
+    {
+        "demographic": "black_population",
+        "district": 25,
+        "min": 113,
+        "25th_percentile": 776.0,
+        "median": 927.0,
+        "75th_percentile": 949.0,
+        "max": 1700
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 25,
+        "min": 2863,
+        "25th_percentile": 11825.0,
+        "median": 12545.0,
+        "75th_percentile": 15066.0,
+        "max": 25240
+    },
+    {
+        "demographic": "asian_population",
+        "district": 25,
+        "min": 109,
+        "25th_percentile": 630.0,
+        "median": 883.0,
+        "75th_percentile": 913.75,
+        "max": 1794
+    },
+    {
+        "demographic": "white_population",
+        "district": 26,
+        "min": 2662,
+        "25th_percentile": 4423.0,
+        "median": 4943.0,
+        "75th_percentile": 8277.0,
+        "max": 14317
+    },
+    {
+        "demographic": "black_population",
+        "district": 26,
+        "min": 216,
+        "25th_percentile": 771.0,
+        "median": 884.0,
+        "75th_percentile": 934.0,
+        "max": 1127
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 26,
+        "min": 9062,
+        "25th_percentile": 18534.0,
+        "median": 21388.0,
+        "75th_percentile": 23121.0,
+        "max": 27515
+    },
+    {
+        "demographic": "asian_population",
+        "district": 26,
+        "min": 96,
+        "25th_percentile": 369.0,
+        "median": 454.0,
+        "75th_percentile": 552.0,
+        "max": 1307
+    },
+    {
+        "demographic": "white_population",
+        "district": 27,
+        "min": 10838,
+        "25th_percentile": 15524.0,
+        "median": 17864.0,
+        "75th_percentile": 17905.0,
+        "max": 21664
+    },
+    {
+        "demographic": "black_population",
+        "district": 27,
+        "min": 168,
+        "25th_percentile": 495.0,
+        "median": 527.0,
+        "75th_percentile": 801.0,
+        "max": 1177
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 27,
+        "min": 6140,
+        "25th_percentile": 8325.0,
+        "median": 8748.0,
+        "75th_percentile": 9614.0,
+        "max": 16672
+    },
+    {
+        "demographic": "asian_population",
+        "district": 27,
+        "min": 124,
+        "25th_percentile": 1068.0,
+        "median": 1370.0,
+        "75th_percentile": 1393.0,
+        "max": 3174
+    },
+    {
+        "demographic": "white_population",
+        "district": 28,
+        "min": 2387,
+        "25th_percentile": 15277.0,
+        "median": 17798.0,
+        "75th_percentile": 17801.0,
+        "max": 20885
+    },
+    {
+        "demographic": "black_population",
+        "district": 28,
+        "min": 86,
+        "25th_percentile": 709.0,
+        "median": 712.0,
+        "75th_percentile": 889.0,
+        "max": 1762
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 28,
+        "min": 6576,
+        "25th_percentile": 8946.0,
+        "median": 8973.0,
+        "75th_percentile": 11013.0,
+        "max": 22591
+    },
+    {
+        "demographic": "asian_population",
+        "district": 28,
+        "min": 105,
+        "25th_percentile": 1016.0,
+        "median": 1034.0,
+        "75th_percentile": 1142.0,
+        "max": 3334
+    },
+    {
+        "demographic": "white_population",
+        "district": 29,
+        "min": 2788,
+        "25th_percentile": 7948.0,
+        "median": 11423.0,
+        "75th_percentile": 11801.0,
+        "max": 16482
+    },
+    {
+        "demographic": "black_population",
+        "district": 29,
+        "min": 173,
+        "25th_percentile": 730.0,
+        "median": 763.0,
+        "75th_percentile": 922.0,
+        "max": 1602
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 29,
+        "min": 5450,
+        "25th_percentile": 14904.0,
+        "median": 15633.0,
+        "75th_percentile": 18090.0,
+        "max": 27249
+    },
+    {
+        "demographic": "asian_population",
+        "district": 29,
+        "min": 149,
+        "25th_percentile": 571.0,
+        "median": 666.0,
+        "75th_percentile": 696.0,
+        "max": 1328
+    },
+    {
+        "demographic": "white_population",
+        "district": 30,
+        "min": 8897,
+        "25th_percentile": 14563.0,
+        "median": 14823.0,
+        "75th_percentile": 15750.0,
+        "max": 21222
+    },
+    {
+        "demographic": "black_population",
+        "district": 30,
+        "min": 171,
+        "25th_percentile": 615.0,
+        "median": 998.0,
+        "75th_percentile": 1024.0,
+        "max": 1665
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 30,
+        "min": 6472,
+        "25th_percentile": 9843.0,
+        "median": 10247.0,
+        "75th_percentile": 10947.0,
+        "max": 18788
+    },
+    {
+        "demographic": "asian_population",
+        "district": 30,
+        "min": 151,
+        "25th_percentile": 970.0,
+        "median": 987.0,
+        "75th_percentile": 1093.0,
+        "max": 3246
+    },
+    {
+        "demographic": "white_population",
+        "district": 31,
+        "min": 2788,
+        "25th_percentile": 16071.0,
+        "median": 18056.0,
+        "75th_percentile": 18439.0,
+        "max": 20749
+    },
+    {
+        "demographic": "black_population",
+        "district": 31,
+        "min": 114,
+        "25th_percentile": 421.0,
+        "median": 421.0,
+        "75th_percentile": 499.75,
+        "max": 1843
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 31,
+        "min": 4653,
+        "25th_percentile": 6852.0,
+        "median": 7384.0,
+        "75th_percentile": 9202.0,
+        "max": 22405
+    },
+    {
+        "demographic": "asian_population",
+        "district": 31,
+        "min": 126,
+        "25th_percentile": 1006.0,
+        "median": 2458.0,
+        "75th_percentile": 3218.0,
+        "max": 3333
+    },
+    {
+        "demographic": "white_population",
+        "district": 32,
+        "min": 2487,
+        "25th_percentile": 9182.0,
+        "median": 9182.0,
+        "75th_percentile": 10924.0,
+        "max": 17625
+    },
+    {
+        "demographic": "black_population",
+        "district": 32,
+        "min": 106,
+        "25th_percentile": 242.0,
+        "median": 242.0,
+        "75th_percentile": 257.0,
+        "max": 823
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 32,
+        "min": 8024,
+        "25th_percentile": 16813.0,
+        "median": 20719.0,
+        "75th_percentile": 20719.0,
+        "max": 29074
+    },
+    {
+        "demographic": "asian_population",
+        "district": 32,
+        "min": 53,
+        "25th_percentile": 172.0,
+        "median": 172.0,
+        "75th_percentile": 195.5,
+        "max": 817
+    },
+    {
+        "demographic": "white_population",
+        "district": 33,
+        "min": 2594,
+        "25th_percentile": 9005.0,
+        "median": 10671.0,
+        "75th_percentile": 10671.0,
+        "max": 14493
+    },
+    {
+        "demographic": "black_population",
+        "district": 33,
+        "min": 123,
+        "25th_percentile": 342.0,
+        "median": 688.0,
+        "75th_percentile": 698.0,
+        "max": 924
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 33,
+        "min": 13779,
+        "25th_percentile": 17739.0,
+        "median": 17739.0,
+        "75th_percentile": 20274.0,
+        "max": 29074
+    },
+    {
+        "demographic": "asian_population",
+        "district": 33,
+        "min": 53,
+        "25th_percentile": 230.0,
+        "median": 577.0,
+        "75th_percentile": 583.0,
+        "max": 859
+    },
+    {
+        "demographic": "white_population",
+        "district": 34,
+        "min": 2356,
+        "25th_percentile": 3471.0,
+        "median": 3471.0,
+        "75th_percentile": 6827.0,
+        "max": 16583
+    },
+    {
+        "demographic": "black_population",
+        "district": 34,
+        "min": 118,
+        "25th_percentile": 130.0,
+        "median": 130.0,
+        "75th_percentile": 221.0,
+        "max": 814
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 34,
+        "min": 11059,
+        "25th_percentile": 23285.0,
+        "median": 26269.0,
+        "75th_percentile": 26269.0,
+        "max": 29074
+    },
+    {
+        "demographic": "asian_population",
+        "district": 34,
+        "min": 53,
+        "25th_percentile": 72.0,
+        "median": 72.0,
+        "75th_percentile": 204.25,
+        "max": 940
+    },
+    {
+        "demographic": "white_population",
+        "district": 35,
+        "min": 4735,
+        "25th_percentile": 8129.0,
+        "median": 9268.0,
+        "75th_percentile": 10607.0,
+        "max": 17319
+    },
+    {
+        "demographic": "black_population",
+        "district": 35,
+        "min": 109,
+        "25th_percentile": 458.0,
+        "median": 476.0,
+        "75th_percentile": 654.0,
+        "max": 1433
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 35,
+        "min": 8154,
+        "25th_percentile": 17390.0,
+        "median": 19186.0,
+        "75th_percentile": 20654.0,
+        "max": 23389
+    },
+    {
+        "demographic": "asian_population",
+        "district": 35,
+        "min": 83,
+        "25th_percentile": 180.0,
+        "median": 264.0,
+        "75th_percentile": 558.0,
+        "max": 826
+    },
+    {
+        "demographic": "white_population",
+        "district": 36,
+        "min": 3471,
+        "25th_percentile": 9102.0,
+        "median": 9966.0,
+        "75th_percentile": 10505.0,
+        "max": 17637
+    },
+    {
+        "demographic": "black_population",
+        "district": 36,
+        "min": 130,
+        "25th_percentile": 359.0,
+        "median": 379.0,
+        "75th_percentile": 507.0,
+        "max": 1554
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 36,
+        "min": 10487,
+        "25th_percentile": 17902.0,
+        "median": 19050.0,
+        "75th_percentile": 19871.0,
+        "max": 26269
+    },
+    {
+        "demographic": "asian_population",
+        "district": 36,
+        "min": 72,
+        "25th_percentile": 190.0,
+        "median": 235.0,
+        "75th_percentile": 303.0,
+        "max": 761
+    },
+    {
+        "demographic": "white_population",
+        "district": 37,
+        "min": 2594,
+        "25th_percentile": 9256.0,
+        "median": 10596.0,
+        "75th_percentile": 10992.0,
+        "max": 17750
+    },
+    {
+        "demographic": "black_population",
+        "district": 37,
+        "min": 116,
+        "25th_percentile": 402.0,
+        "median": 570.0,
+        "75th_percentile": 742.0,
+        "max": 1564
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 37,
+        "min": 4486,
+        "25th_percentile": 16418.0,
+        "median": 17491.0,
+        "75th_percentile": 19769.0,
+        "max": 27894
+    },
+    {
+        "demographic": "asian_population",
+        "district": 37,
+        "min": 53,
+        "25th_percentile": 231.0,
+        "median": 459.0,
+        "75th_percentile": 654.0,
+        "max": 820
+    },
+    {
+        "demographic": "white_population",
+        "district": 38,
+        "min": 2769,
+        "25th_percentile": 10432.0,
+        "median": 10791.0,
+        "75th_percentile": 12788.0,
+        "max": 18716
+    },
+    {
+        "demographic": "black_population",
+        "district": 38,
+        "min": 93,
+        "25th_percentile": 253.0,
+        "median": 273.0,
+        "75th_percentile": 316.0,
+        "max": 1507
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 38,
+        "min": 2252,
+        "25th_percentile": 15520.0,
+        "median": 16670.0,
+        "75th_percentile": 18380.0,
+        "max": 27598
+    },
+    {
+        "demographic": "asian_population",
+        "district": 38,
+        "min": 67,
+        "25th_percentile": 191.0,
+        "median": 247.0,
+        "75th_percentile": 386.0,
+        "max": 753
+    },
+    {
+        "demographic": "white_population",
+        "district": 39,
+        "min": 534,
+        "25th_percentile": 11639.0,
+        "median": 13765.0,
+        "75th_percentile": 13765.0,
+        "max": 17671
+    },
+    {
+        "demographic": "black_population",
+        "district": 39,
+        "min": 80,
+        "25th_percentile": 250.0,
+        "median": 251.0,
+        "75th_percentile": 251.0,
+        "max": 903
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 39,
+        "min": 1283,
+        "25th_percentile": 13563.0,
+        "median": 13563.0,
+        "75th_percentile": 16420.0,
+        "max": 25206
+    },
+    {
+        "demographic": "asian_population",
+        "district": 39,
+        "min": 69,
+        "25th_percentile": 190.0,
+        "median": 191.0,
+        "75th_percentile": 191.0,
+        "max": 627
+    },
+    {
+        "demographic": "white_population",
+        "district": 40,
+        "min": 3493,
+        "25th_percentile": 7695.0,
+        "median": 8334.0,
+        "75th_percentile": 12525.0,
+        "max": 18952
+    },
+    {
+        "demographic": "black_population",
+        "district": 40,
+        "min": 60,
+        "25th_percentile": 80.0,
+        "median": 113.0,
+        "75th_percentile": 191.0,
+        "max": 1822
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 40,
+        "min": 7751,
+        "25th_percentile": 14529.0,
+        "median": 19037.0,
+        "75th_percentile": 20230.0,
+        "max": 24335
+    },
+    {
+        "demographic": "asian_population",
+        "district": 40,
+        "min": 90,
+        "25th_percentile": 131.0,
+        "median": 181.0,
+        "75th_percentile": 266.0,
+        "max": 2727
+    },
+    {
+        "demographic": "white_population",
+        "district": 41,
+        "min": 2196,
+        "25th_percentile": 6747.0,
+        "median": 7447.0,
+        "75th_percentile": 11852.0,
+        "max": 20068
+    },
+    {
+        "demographic": "black_population",
+        "district": 41,
+        "min": 64,
+        "25th_percentile": 108.0,
+        "median": 116.0,
+        "75th_percentile": 156.0,
+        "max": 952
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 41,
+        "min": 6350,
+        "25th_percentile": 13453.0,
+        "median": 18527.0,
+        "75th_percentile": 19489.0,
+        "max": 23812
+    },
+    {
+        "demographic": "asian_population",
+        "district": 41,
+        "min": 71,
+        "25th_percentile": 161.0,
+        "median": 180.0,
+        "75th_percentile": 220.0,
+        "max": 1349
+    },
+    {
+        "demographic": "white_population",
+        "district": 42,
+        "min": 3465,
+        "25th_percentile": 7800.0,
+        "median": 11610.0,
+        "75th_percentile": 12400.0,
+        "max": 20446
+    },
+    {
+        "demographic": "black_population",
+        "district": 42,
+        "min": 68,
+        "25th_percentile": 109.0,
+        "median": 120.0,
+        "75th_percentile": 128.0,
+        "max": 1848
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 42,
+        "min": 6261,
+        "25th_percentile": 14813.0,
+        "median": 16014.0,
+        "75th_percentile": 19750.0,
+        "max": 23807
+    },
+    {
+        "demographic": "asian_population",
+        "district": 42,
+        "min": 77,
+        "25th_percentile": 170.0,
+        "median": 180.0,
+        "75th_percentile": 187.25,
+        "max": 1274
+    },
+    {
+        "demographic": "white_population",
+        "district": 43,
+        "min": 890,
+        "25th_percentile": 8872.0,
+        "median": 14614.0,
+        "75th_percentile": 15789.0,
+        "max": 20689
+    },
+    {
+        "demographic": "black_population",
+        "district": 43,
+        "min": 71,
+        "25th_percentile": 142.0,
+        "median": 186.0,
+        "75th_percentile": 230.0,
+        "max": 855
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 43,
+        "min": 1471,
+        "25th_percentile": 9681.0,
+        "median": 11199.0,
+        "75th_percentile": 15140.0,
+        "max": 23082
+    },
+    {
+        "demographic": "asian_population",
+        "district": 43,
+        "min": 88,
+        "25th_percentile": 247.0,
+        "median": 523.0,
+        "75th_percentile": 1294.0,
+        "max": 3257
+    },
+    {
+        "demographic": "white_population",
+        "district": 44,
+        "min": 4278,
+        "25th_percentile": 12729.0,
+        "median": 15791.0,
+        "75th_percentile": 16482.0,
+        "max": 18921
+    },
+    {
+        "demographic": "black_population",
+        "district": 44,
+        "min": 115,
+        "25th_percentile": 503.0,
+        "median": 572.0,
+        "75th_percentile": 712.0,
+        "max": 1592
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 44,
+        "min": 5259,
+        "25th_percentile": 11068.0,
+        "median": 11572.0,
+        "75th_percentile": 12987.0,
+        "max": 22220
+    },
+    {
+        "demographic": "asian_population",
+        "district": 44,
+        "min": 143,
+        "25th_percentile": 452.0,
+        "median": 519.0,
+        "75th_percentile": 619.0,
+        "max": 3281
+    },
+    {
+        "demographic": "white_population",
+        "district": 45,
+        "min": 3459,
+        "25th_percentile": 9296.0,
+        "median": 9296.0,
+        "75th_percentile": 14226.0,
+        "max": 20014
+    },
+    {
+        "demographic": "black_population",
+        "district": 45,
+        "min": 68,
+        "25th_percentile": 236.0,
+        "median": 277.0,
+        "75th_percentile": 277.0,
+        "max": 936
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 45,
+        "min": 5804,
+        "25th_percentile": 11199.0,
+        "median": 18093.0,
+        "75th_percentile": 18410.0,
+        "max": 22992
+    },
+    {
+        "demographic": "asian_population",
+        "district": 45,
+        "min": 64,
+        "25th_percentile": 478.0,
+        "median": 583.0,
+        "75th_percentile": 622.0,
+        "max": 1468
+    },
+    {
+        "demographic": "white_population",
+        "district": 46,
+        "min": 3391,
+        "25th_percentile": 10076.0,
+        "median": 12590.0,
+        "75th_percentile": 13823.0,
+        "max": 21020
+    },
+    {
+        "demographic": "black_population",
+        "district": 46,
+        "min": 64,
+        "25th_percentile": 151.0,
+        "median": 184.0,
+        "75th_percentile": 285.0,
+        "max": 1188
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 46,
+        "min": 5325,
+        "25th_percentile": 12750.0,
+        "median": 14598.0,
+        "75th_percentile": 16589.0,
+        "max": 24578
+    },
+    {
+        "demographic": "asian_population",
+        "district": 46,
+        "min": 54,
+        "25th_percentile": 243.0,
+        "median": 320.0,
+        "75th_percentile": 510.0,
+        "max": 1305
+    },
+    {
+        "demographic": "white_population",
+        "district": 47,
+        "min": 578,
+        "25th_percentile": 10103.0,
+        "median": 14672.0,
+        "75th_percentile": 19138.0,
+        "max": 21312
+    },
+    {
+        "demographic": "black_population",
+        "district": 47,
+        "min": 63,
+        "25th_percentile": 200.0,
+        "median": 228.0,
+        "75th_percentile": 274.0,
+        "max": 917
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 47,
+        "min": 1412,
+        "25th_percentile": 8321.0,
+        "median": 11887.0,
+        "75th_percentile": 17383.0,
+        "max": 22505
+    },
+    {
+        "demographic": "asian_population",
+        "district": 47,
+        "min": 68,
+        "25th_percentile": 382.0,
+        "median": 593.0,
+        "75th_percentile": 676.0,
+        "max": 3087
+    },
+    {
+        "demographic": "white_population",
+        "district": 48,
+        "min": 4612,
+        "25th_percentile": 9204.0,
+        "median": 10029.0,
+        "75th_percentile": 13317.0,
+        "max": 22344
+    },
+    {
+        "demographic": "black_population",
+        "district": 48,
+        "min": 86,
+        "25th_percentile": 240.0,
+        "median": 295.0,
+        "75th_percentile": 323.0,
+        "max": 754
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 48,
+        "min": 6040,
+        "25th_percentile": 14138.0,
+        "median": 17383.0,
+        "75th_percentile": 18599.0,
+        "max": 22789
+    },
+    {
+        "demographic": "asian_population",
+        "district": 48,
+        "min": 105,
+        "25th_percentile": 436.0,
+        "median": 448.0,
+        "75th_percentile": 537.0,
+        "max": 1364
+    },
+    {
+        "demographic": "white_population",
+        "district": 49,
+        "min": 3592,
+        "25th_percentile": 10108.0,
+        "median": 11233.0,
+        "75th_percentile": 13864.0,
+        "max": 20580
+    },
+    {
+        "demographic": "black_population",
+        "district": 49,
+        "min": 77,
+        "25th_percentile": 243.0,
+        "median": 281.0,
+        "75th_percentile": 304.0,
+        "max": 1758
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 49,
+        "min": 4788,
+        "25th_percentile": 13937.0,
+        "median": 16280.0,
+        "75th_percentile": 17821.0,
+        "max": 21771
+    },
+    {
+        "demographic": "asian_population",
+        "district": 49,
+        "min": 70,
+        "25th_percentile": 179.0,
+        "median": 194.0,
+        "75th_percentile": 362.0,
+        "max": 3333
+    },
+    {
+        "demographic": "white_population",
+        "district": 50,
+        "min": 2184,
+        "25th_percentile": 12033.0,
+        "median": 19059.0,
+        "75th_percentile": 19753.0,
+        "max": 22647
+    },
+    {
+        "demographic": "black_population",
+        "district": 50,
+        "min": 68,
+        "25th_percentile": 191.0,
+        "median": 262.0,
+        "75th_percentile": 263.0,
+        "max": 1197
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 50,
+        "min": 1940,
+        "25th_percentile": 8277.0,
+        "median": 8850.0,
+        "75th_percentile": 10970.0,
+        "max": 26989
+    },
+    {
+        "demographic": "asian_population",
+        "district": 50,
+        "min": 104,
+        "25th_percentile": 229.0,
+        "median": 243.0,
+        "75th_percentile": 468.0,
+        "max": 2992
+    },
+    {
+        "demographic": "white_population",
+        "district": 51,
+        "min": 2027,
+        "25th_percentile": 15655.0,
+        "median": 16407.0,
+        "75th_percentile": 16407.0,
+        "max": 18444
+    },
+    {
+        "demographic": "black_population",
+        "district": 51,
+        "min": 101,
+        "25th_percentile": 1191.0,
+        "median": 1615.0,
+        "75th_percentile": 1615.0,
+        "max": 1735
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 51,
+        "min": 7694,
+        "25th_percentile": 10166.0,
+        "median": 10166.0,
+        "75th_percentile": 10462.0,
+        "max": 29074
+    },
+    {
+        "demographic": "asian_population",
+        "district": 51,
+        "min": 37,
+        "25th_percentile": 567.0,
+        "median": 701.0,
+        "75th_percentile": 701.0,
+        "max": 745
+    },
+    {
+        "demographic": "white_population",
+        "district": 52,
+        "min": 2407,
+        "25th_percentile": 3125.0,
+        "median": 6191.0,
+        "75th_percentile": 8390.0,
+        "max": 16912
+    },
+    {
+        "demographic": "black_population",
+        "district": 52,
+        "min": 118,
+        "25th_percentile": 151.0,
+        "median": 215.0,
+        "75th_percentile": 373.0,
+        "max": 814
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 52,
+        "min": 10065,
+        "25th_percentile": 19741.0,
+        "median": 22896.0,
+        "75th_percentile": 25206.0,
+        "max": 29074
+    },
+    {
+        "demographic": "asian_population",
+        "district": 52,
+        "min": 52,
+        "25th_percentile": 69.0,
+        "median": 277.0,
+        "75th_percentile": 322.0,
+        "max": 767
+    },
+    {
+        "demographic": "white_population",
+        "district": 53,
+        "min": 2176,
+        "25th_percentile": 7552.0,
+        "median": 7826.0,
+        "75th_percentile": 11347.0,
+        "max": 18698
+    },
+    {
+        "demographic": "black_population",
+        "district": 53,
+        "min": 102,
+        "25th_percentile": 291.0,
+        "median": 483.0,
+        "75th_percentile": 523.0,
+        "max": 1003
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 53,
+        "min": 5626,
+        "25th_percentile": 16847.0,
+        "median": 20707.0,
+        "75th_percentile": 21360.0,
+        "max": 29074
+    },
+    {
+        "demographic": "asian_population",
+        "district": 53,
+        "min": 32,
+        "25th_percentile": 253.0,
+        "median": 419.0,
+        "75th_percentile": 491.0,
+        "max": 1825
+    },
+    {
+        "demographic": "white_population",
+        "district": 54,
+        "min": 3332,
+        "25th_percentile": 11906.0,
+        "median": 14367.0,
+        "75th_percentile": 15035.0,
+        "max": 19186
+    },
+    {
+        "demographic": "black_population",
+        "district": 54,
+        "min": 89,
+        "25th_percentile": 289.0,
+        "median": 692.0,
+        "75th_percentile": 918.0,
+        "max": 1687
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 54,
+        "min": 6052,
+        "25th_percentile": 12659.0,
+        "median": 13715.0,
+        "75th_percentile": 16535.0,
+        "max": 21779
+    },
+    {
+        "demographic": "asian_population",
+        "district": 54,
+        "min": 75,
+        "25th_percentile": 192.0,
+        "median": 346.0,
+        "75th_percentile": 371.0,
+        "max": 889
+    },
+    {
+        "demographic": "white_population",
+        "district": 55,
+        "min": 5532,
+        "25th_percentile": 12628.0,
+        "median": 15291.0,
+        "75th_percentile": 15291.0,
+        "max": 18465
+    },
+    {
+        "demographic": "black_population",
+        "district": 55,
+        "min": 236,
+        "25th_percentile": 331.0,
+        "median": 331.0,
+        "75th_percentile": 505.0,
+        "max": 1627
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 55,
+        "min": 10183,
+        "25th_percentile": 14771.0,
+        "median": 14771.0,
+        "75th_percentile": 16600.0,
+        "max": 23516
+    },
+    {
+        "demographic": "asian_population",
+        "district": 55,
+        "min": 89,
+        "25th_percentile": 252.0,
+        "median": 349.0,
+        "75th_percentile": 349.0,
+        "max": 651
+    },
+    {
+        "demographic": "white_population",
+        "district": 56,
+        "min": 3848,
+        "25th_percentile": 12602.0,
+        "median": 16605.0,
+        "75th_percentile": 17409.0,
+        "max": 19122
+    },
+    {
+        "demographic": "black_population",
+        "district": 56,
+        "min": 71,
+        "25th_percentile": 111.0,
+        "median": 234.0,
+        "75th_percentile": 487.0,
+        "max": 1618
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 56,
+        "min": 6484,
+        "25th_percentile": 8279.0,
+        "median": 9643.0,
+        "75th_percentile": 16036.0,
+        "max": 24849
+    },
+    {
+        "demographic": "asian_population",
+        "district": 56,
+        "min": 96,
+        "25th_percentile": 159.0,
+        "median": 159.0,
+        "75th_percentile": 279.5,
+        "max": 1134
+    },
+    {
+        "demographic": "white_population",
+        "district": 57,
+        "min": 2332,
+        "25th_percentile": 12729.0,
+        "median": 12729.0,
+        "75th_percentile": 13627.0,
+        "max": 19905
+    },
+    {
+        "demographic": "black_population",
+        "district": 57,
+        "min": 103,
+        "25th_percentile": 680.75,
+        "median": 922.0,
+        "75th_percentile": 952.0,
+        "max": 988
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 57,
+        "min": 2559,
+        "25th_percentile": 12104.0,
+        "median": 13826.0,
+        "75th_percentile": 13826.0,
+        "max": 18751
+    },
+    {
+        "demographic": "asian_population",
+        "district": 57,
+        "min": 89,
+        "25th_percentile": 482.0,
+        "median": 502.0,
+        "75th_percentile": 502.0,
+        "max": 3260
+    },
+    {
+        "demographic": "white_population",
+        "district": 58,
+        "min": 7275,
+        "25th_percentile": 7722.0,
+        "median": 10068.0,
+        "75th_percentile": 12518.0,
+        "max": 19113
+    },
+    {
+        "demographic": "black_population",
+        "district": 58,
+        "min": 96,
+        "25th_percentile": 420.0,
+        "median": 448.0,
+        "75th_percentile": 496.0,
+        "max": 1300
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 58,
+        "min": 7401,
+        "25th_percentile": 15248.0,
+        "median": 18914.0,
+        "75th_percentile": 20745.0,
+        "max": 22148
+    },
+    {
+        "demographic": "asian_population",
+        "district": 58,
+        "min": 96,
+        "25th_percentile": 103.0,
+        "median": 152.0,
+        "75th_percentile": 386.0,
+        "max": 556
+    },
+    {
+        "demographic": "white_population",
+        "district": 59,
+        "min": 7554,
+        "25th_percentile": 10791.0,
+        "median": 13130.0,
+        "75th_percentile": 13923.0,
+        "max": 18639
+    },
+    {
+        "demographic": "black_population",
+        "district": 59,
+        "min": 105,
+        "25th_percentile": 425.0,
+        "median": 466.0,
+        "75th_percentile": 494.0,
+        "max": 1325
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 59,
+        "min": 7649,
+        "25th_percentile": 14585.0,
+        "median": 15046.0,
+        "75th_percentile": 17614.0,
+        "max": 22146
+    },
+    {
+        "demographic": "asian_population",
+        "district": 59,
+        "min": 88,
+        "25th_percentile": 169.0,
+        "median": 437.0,
+        "75th_percentile": 486.0,
+        "max": 653
+    },
+    {
+        "demographic": "white_population",
+        "district": 60,
+        "min": 3398,
+        "25th_percentile": 12987.0,
+        "median": 13595.0,
+        "75th_percentile": 13595.0,
+        "max": 20196
+    },
+    {
+        "demographic": "black_population",
+        "district": 60,
+        "min": 109,
+        "25th_percentile": 735.0,
+        "median": 754.0,
+        "75th_percentile": 754.0,
+        "max": 1011
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 60,
+        "min": 6332,
+        "25th_percentile": 13879.0,
+        "median": 14674.0,
+        "75th_percentile": 14674.0,
+        "max": 19158
+    },
+    {
+        "demographic": "asian_population",
+        "district": 60,
+        "min": 129,
+        "25th_percentile": 696.0,
+        "median": 737.0,
+        "75th_percentile": 737.0,
+        "max": 3246
+    },
+    {
+        "demographic": "white_population",
+        "district": 61,
+        "min": 5449,
+        "25th_percentile": 5901.0,
+        "median": 8374.0,
+        "75th_percentile": 11619.0,
+        "max": 17810
+    },
+    {
+        "demographic": "black_population",
+        "district": 61,
+        "min": 155,
+        "25th_percentile": 811.0,
+        "median": 1269.0,
+        "75th_percentile": 1297.0,
+        "max": 1629
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 61,
+        "min": 10980,
+        "25th_percentile": 16977.0,
+        "median": 20017.0,
+        "75th_percentile": 22683.0,
+        "max": 23044
+    },
+    {
+        "demographic": "asian_population",
+        "district": 61,
+        "min": 100,
+        "25th_percentile": 173.0,
+        "median": 173.0,
+        "75th_percentile": 322.0,
+        "max": 703
+    },
+    {
+        "demographic": "white_population",
+        "district": 62,
+        "min": 5962,
+        "25th_percentile": 10096.0,
+        "median": 13109.0,
+        "75th_percentile": 13109.0,
+        "max": 17313
+    },
+    {
+        "demographic": "black_population",
+        "district": 62,
+        "min": 236,
+        "25th_percentile": 1013.0,
+        "median": 1056.0,
+        "75th_percentile": 1117.0,
+        "max": 1854
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 62,
+        "min": 9901,
+        "25th_percentile": 15189.0,
+        "median": 15189.0,
+        "75th_percentile": 18320.0,
+        "max": 23071
+    },
+    {
+        "demographic": "asian_population",
+        "district": 62,
+        "min": 120,
+        "25th_percentile": 277.0,
+        "median": 443.0,
+        "75th_percentile": 443.0,
+        "max": 568
+    },
+    {
+        "demographic": "white_population",
+        "district": 63,
+        "min": 5688,
+        "25th_percentile": 8729.0,
+        "median": 12541.0,
+        "75th_percentile": 14335.0,
+        "max": 20875
+    },
+    {
+        "demographic": "black_population",
+        "district": 63,
+        "min": 69,
+        "25th_percentile": 305.0,
+        "median": 802.0,
+        "75th_percentile": 1305.0,
+        "max": 1871
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 63,
+        "min": 7701,
+        "25th_percentile": 13762.0,
+        "median": 15115.0,
+        "75th_percentile": 18486.0,
+        "max": 22231
+    },
+    {
+        "demographic": "asian_population",
+        "district": 63,
+        "min": 96,
+        "25th_percentile": 158.0,
+        "median": 240.0,
+        "75th_percentile": 438.0,
+        "max": 1267
+    },
+    {
+        "demographic": "white_population",
+        "district": 64,
+        "min": 3757,
+        "25th_percentile": 12944.0,
+        "median": 14779.0,
+        "75th_percentile": 18347.0,
+        "max": 18646
+    },
+    {
+        "demographic": "black_population",
+        "district": 64,
+        "min": 74,
+        "25th_percentile": 528.0,
+        "median": 1013.0,
+        "75th_percentile": 1022.0,
+        "max": 1902
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 64,
+        "min": 7861,
+        "25th_percentile": 10489.0,
+        "median": 13658.0,
+        "75th_percentile": 15087.0,
+        "max": 23761
+    },
+    {
+        "demographic": "asian_population",
+        "district": 64,
+        "min": 95,
+        "25th_percentile": 259.0,
+        "median": 476.0,
+        "75th_percentile": 567.0,
+        "max": 1368
+    },
+    {
+        "demographic": "white_population",
+        "district": 65,
+        "min": 1989,
+        "25th_percentile": 2141.0,
+        "median": 9149.0,
+        "75th_percentile": 14733.0,
+        "max": 20390
+    },
+    {
+        "demographic": "black_population",
+        "district": 65,
+        "min": 77,
+        "25th_percentile": 84.0,
+        "median": 154.0,
+        "75th_percentile": 288.0,
+        "max": 1042
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 65,
+        "min": 2557,
+        "25th_percentile": 7478.0,
+        "median": 8916.0,
+        "75th_percentile": 12048.0,
+        "max": 24547
+    },
+    {
+        "demographic": "asian_population",
+        "district": 65,
+        "min": 82,
+        "25th_percentile": 111.0,
+        "median": 204.0,
+        "75th_percentile": 495.0,
+        "max": 3017
+    },
+    {
+        "demographic": "white_population",
+        "district": 66,
+        "min": 5655,
+        "25th_percentile": 11238.0,
+        "median": 12349.0,
+        "75th_percentile": 14378.0,
+        "max": 18209
+    },
+    {
+        "demographic": "black_population",
+        "district": 66,
+        "min": 109,
+        "25th_percentile": 377.0,
+        "median": 554.0,
+        "75th_percentile": 1014.0,
+        "max": 1983
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 66,
+        "min": 7896,
+        "25th_percentile": 13912.0,
+        "median": 15699.0,
+        "75th_percentile": 16687.0,
+        "max": 23044
+    },
+    {
+        "demographic": "asian_population",
+        "district": 66,
+        "min": 103,
+        "25th_percentile": 162.0,
+        "median": 255.0,
+        "75th_percentile": 395.0,
+        "max": 1279
+    },
+    {
+        "demographic": "white_population",
+        "district": 67,
+        "min": 4104,
+        "25th_percentile": 10300.0,
+        "median": 13578.0,
+        "75th_percentile": 15051.0,
+        "max": 20516
+    },
+    {
+        "demographic": "black_population",
+        "district": 67,
+        "min": 76,
+        "25th_percentile": 324.0,
+        "median": 877.0,
+        "75th_percentile": 1647.0,
+        "max": 1952
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 67,
+        "min": 7542,
+        "25th_percentile": 13448.0,
+        "median": 14620.0,
+        "75th_percentile": 16591.0,
+        "max": 23152
+    },
+    {
+        "demographic": "asian_population",
+        "district": 67,
+        "min": 84,
+        "25th_percentile": 190.0,
+        "median": 270.0,
+        "75th_percentile": 320.0,
+        "max": 643
+    },
+    {
+        "demographic": "white_population",
+        "district": 68,
+        "min": 3539,
+        "25th_percentile": 11534.0,
+        "median": 11704.0,
+        "75th_percentile": 12312.0,
+        "max": 16338
+    },
+    {
+        "demographic": "black_population",
+        "district": 68,
+        "min": 100,
+        "25th_percentile": 811.0,
+        "median": 907.0,
+        "75th_percentile": 942.0,
+        "max": 1104
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 68,
+        "min": 2714,
+        "25th_percentile": 14415.0,
+        "median": 15074.0,
+        "75th_percentile": 15392.0,
+        "max": 25108
+    },
+    {
+        "demographic": "asian_population",
+        "district": 68,
+        "min": 164,
+        "25th_percentile": 686.0,
+        "median": 733.0,
+        "75th_percentile": 761.0,
+        "max": 1140
+    },
+    {
+        "demographic": "white_population",
+        "district": 69,
+        "min": 476,
+        "25th_percentile": 2788.0,
+        "median": 3368.0,
+        "75th_percentile": 7521.0,
+        "max": 19581
+    },
+    {
+        "demographic": "black_population",
+        "district": 69,
+        "min": 65,
+        "25th_percentile": 173.0,
+        "median": 173.0,
+        "75th_percentile": 253.0,
+        "max": 1212
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 69,
+        "min": 690,
+        "25th_percentile": 5450.0,
+        "median": 5726.5,
+        "75th_percentile": 15633.0,
+        "max": 25664
+    },
+    {
+        "demographic": "asian_population",
+        "district": 69,
+        "min": 70,
+        "25th_percentile": 187.0,
+        "median": 187.0,
+        "75th_percentile": 228.0,
+        "max": 1239
+    },
+    {
+        "demographic": "white_population",
+        "district": 70,
+        "min": 2092,
+        "25th_percentile": 7235.0,
+        "median": 8505.0,
+        "75th_percentile": 14730.0,
+        "max": 21004
+    },
+    {
+        "demographic": "black_population",
+        "district": 70,
+        "min": 71,
+        "25th_percentile": 202.0,
+        "median": 297.0,
+        "75th_percentile": 344.0,
+        "max": 1856
+    },
+    {
+        "demographic": "hispanic_population",
+        "district": 70,
+        "min": 5937,
+        "25th_percentile": 11884.0,
+        "median": 17991.0,
+        "75th_percentile": 20941.0,
+        "max": 25898
+    },
+    {
+        "demographic": "asian_population",
+        "district": 70,
+        "min": 95,
+        "25th_percentile": 134.0,
+        "median": 161.0,
+        "75th_percentile": 262.0,
+        "max": 3284
+    }
+]

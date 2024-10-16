@@ -1,0 +1,96 @@
+{
+    "Alabama": [
+        {
+            "label": "White",
+            "assemblyValue": 75,
+            "populationValue": "3,250,182"
+        },
+        {
+            "label": "Black/African American",
+            "assemblyValue": 27,
+            "populationValue": "1,296,500"
+        },
+        {
+            "label": "Hispanic/Latino",
+            "assemblyValue": 0,
+            "populationValue": "246,477"
+        },
+        {
+            "label": "Asian",
+            "assemblyValue": 0,
+            "populationValue": "76,682"
+        },
+        {
+            "label": "American Indian/Alaska Native",
+            "assemblyValue": 0,
+            "populationValue": "12,694"
+        },
+        {
+            "label": "Native Hawaiian/Other Pacific Islander",
+            "assemblyValue": 0,
+            "populationValue": "1,954"
+        },
+        {
+            "label": "Two or More Races",
+            "assemblyValue": 1,
+            "populationValue": "169,880"
+        },
+        {
+            "label": "Other/Unknown",
+            "assemblyValue": 0,
+            "populationValue": "19,927"
+        },
+        {
+            "label": "Total: ",
+            "assemblyValue": 103,
+            "populationValue": "5,074,296"
+        }
+    ],
+    "NewMexico": [
+        {
+            "label": "White",
+            "assemblyValue": 29,
+            "populationValue": "735,478"
+        },
+        {
+            "label": "Black/African American",
+            "assemblyValue": 2,
+            "populationValue": "36,870"
+        },
+        {
+            "label": "Hispanic/Latino",
+            "assemblyValue": 32,
+            "populationValue": "1,059,867"
+        },
+        {
+            "label": "Asian",
+            "assemblyValue": 1,
+            "populationValue": "35,870"
+        },
+        {
+            "label": "American Indian/Alaska Native",
+            "assemblyValue": 5,
+            "populationValue": "171,808"
+        },
+        {
+            "label": "Native Hawaiian/Other Pacific Islander",
+            "assemblyValue": 0,
+            "populationValue": "785"
+        },
+        {
+            "label": "Two or More Races",
+            "assemblyValue": 1,
+            "populationValue": "65,084"
+        },
+        {
+            "label": "Other/Unknown",
+            "assemblyValue": 0,
+            "populationValue": "7,582"
+        },
+        {
+            "label": "Total: ",
+            "assemblyValue": 70,
+            "populationValue": "2,113,344"
+        }
+    ]
+}

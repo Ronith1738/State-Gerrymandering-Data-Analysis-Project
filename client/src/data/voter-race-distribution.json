@@ -1,0 +1,18 @@
+{
+    "Alabama": [
+        { "label": "White", "value": 2640770 },
+        { "label": "Black/African American", "value": 989181 },
+        { "label": "Hispanic/Latino", "value": 98557 },
+        { "label": "Asian", "value": 39062 },
+        { "label": "American Indian", "value": 14173 },
+        { "label": "Other", "value": 36981 }
+    ],
+    "New Mexico": [
+        { "label": "White", "value": 792310 },
+        { "label": "Black/African American", "value": 33950 },
+        { "label": "Hispanic/Latino", "value": 692510 },
+        { "label": "Asian", "value": 22163 },
+        { "label": "American Indian", "value": 143813 },
+        { "label": "Other", "value": 204216 }
+    ]
+}

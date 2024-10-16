@@ -1,0 +1,46 @@
+{
+	"Alabama": {
+		"labels": [
+			"White",
+			"Black/African American",
+			"Hispanic/Latino",
+			"Asian",
+			"American Indian/Alaska Native",
+			"Native Hawaiian/Other Pacific Islander",
+			"Two or More Races",
+			"Other/Unknown"
+		],
+		"datasets": [
+			{
+				"label": "% of State Assembly Members",
+				"data": [72.8, 26.2, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0]
+			},
+			{
+				"label": "% in Overall Population",
+				"data": [64.1, 25.6, 4.9, 1.5, 0.3, 0.0, 3.3, 0.4]
+			}
+		]
+	},
+	"NewMexico": {
+		"labels": [
+			"White",
+			"Black/African American",
+			"Hispanic/Latino",
+			"Asian",
+			"American Indian/Alaska Native",
+			"Native Hawaiian/Other Pacific Islander",
+			"Two or More Races",
+			"Other/Unknown"
+		],
+		"datasets": [
+			{
+				"label": "% of State Assembly Members",
+				"data": [41.4, 2.86, 45.7, 1.4, 7.1, 0.0, 1.4, 0.0]
+			},
+			{
+				"label": "% in Overall Population",
+				"data": [34.8, 1.7, 50.2, 1.7, 8.1, 0.0, 3.1, 0.4]
+			}
+		]
+	}
+}

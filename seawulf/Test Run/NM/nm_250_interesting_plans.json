@@ -1,0 +1,138 @@
+{
+    "White": {
+        "max": {
+            "value": 0.712,
+            "district": {
+                "plan": "21_4",
+                "district": 50,
+                "population": 28701,
+                "white_population": 20442,
+                "black_population": 195,
+                "hispanic_population": 6159,
+                "asian_population": 318,
+                "native_population": 318,
+                "democratic_votes": 9597,
+                "republican_votes": 9713,
+                "cut_edges": 1444
+            }
+        },
+        "min": {
+            "value": 0.07,
+            "district": {
+                "plan": "39_5",
+                "district": 44,
+                "population": 27858,
+                "white_population": 1946,
+                "black_population": 82,
+                "hispanic_population": 7405,
+                "asian_population": 110,
+                "native_population": 110,
+                "democratic_votes": 7885,
+                "republican_votes": 2587,
+                "cut_edges": 1484
+            }
+        }
+    },
+    "Black": {
+        "max": {
+            "value": 0.061,
+            "district": {
+                "plan": "32_3",
+                "district": 63,
+                "population": 28812,
+                "white_population": 9301,
+                "black_population": 1756,
+                "hispanic_population": 16273,
+                "asian_population": 283,
+                "native_population": 283,
+                "democratic_votes": 2677,
+                "republican_votes": 4387,
+                "cut_edges": 1468
+            }
+        },
+        "min": {
+            "value": 0.003,
+            "district": {
+                "plan": "11_0",
+                "district": 65,
+                "population": 28386,
+                "white_population": 1989,
+                "black_population": 84,
+                "hispanic_population": 7478,
+                "asian_population": 111,
+                "native_population": 18296,
+                "democratic_votes": 8119,
+                "republican_votes": 2609,
+                "cut_edges": 1483
+            }
+        }
+    },
+    "Hispanic": {
+        "max": {
+            "value": 0.899,
+            "district": {
+                "plan": "16_2",
+                "district": 52,
+                "population": 32340,
+                "white_population": 2615,
+                "black_population": 153,
+                "hispanic_population": 29074,
+                "asian_population": 53,
+                "native_population": 53,
+                "democratic_votes": 4183,
+                "republican_votes": 2121,
+                "cut_edges": 1465
+            }
+        },
+        "min": {
+            "value": 0.091,
+            "district": {
+                "plan": "11_0",
+                "district": 4,
+                "population": 28276,
+                "white_population": 3825,
+                "black_population": 131,
+                "hispanic_population": 2559,
+                "asian_population": 256,
+                "native_population": 20723,
+                "democratic_votes": 5913,
+                "republican_votes": 4679,
+                "cut_edges": 1483
+            }
+        }
+    },
+    "Native": {
+        "max": {
+            "value": 0.787,
+            "district": {
+                "plan": "11_0",
+                "district": 5,
+                "population": 28343,
+                "white_population": 2113,
+                "black_population": 112,
+                "hispanic_population": 2772,
+                "asian_population": 367,
+                "native_population": 22307,
+                "democratic_votes": 8195,
+                "republican_votes": 3230,
+                "cut_edges": 1483
+            }
+        },
+        "min": {
+            "value": -0.627,
+            "district": {
+                "plan": "35_5",
+                "district": 65,
+                "population": 28513,
+                "white_population": 14887,
+                "black_population": 180,
+                "hispanic_population": 10710,
+                "asian_population": 1271,
+                "native_population": -17889,
+                "democratic_votes": 9666,
+                "republican_votes": 4940,
+                "cut_edges": 1476
+            }
+        }
+    }
+}
